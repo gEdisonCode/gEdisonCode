@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🍁 En busca de mi lugar en el mundo digital.<br>🍂 Me gustaría aprender Back-End.<br>🎻 Adoro el arte en todas sus formas., y el código es una de ellas.<br>🐙 Si lo puedo imaginar, lo puedo programar...</p>
+<p align="left">🍁 En busca de mi lugar en el mundo digital.<br>🍂 Ganas de expandirme a otras ramas.<br>🎻 Adoro el arte en todas sus formas., y el código es una de ellas.<br>🐙 Si lo puedo imaginar, lo puedo programar...</p>
 
 ###
 
