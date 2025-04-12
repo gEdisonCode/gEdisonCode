@@ -1,20 +1,21 @@
-<h1 align="left">🦉Quien soy?</h1>
+<h1 align="left">🦉Who I am?</h1>
 
 ###
 
-<p align="left">Mi nombre es German Edison y soy Desarrollador web. ☕<br>Me Especializo en la rama Front-End, y actualmente estoy enfocado en la creación de soluciones dinámicas e intuitivas, valiéndome de<br>todo cuanto se, y cuanto me queda por aprender.</p>
+<p align="left">My name is German Edison. Front-End Web Developer. ☕<br>Currently dedicated to the creation of dynamic and responsive solutions, using everything I know, and all that I have yet to learn. 
+.</p>
 
 ###
 
-<h2 align="left">💼En que pienso...</h2>
+<h2 align="left">💼What im thinking...</h2>
 
 ###
 
-<p align="left">🍁 En busca de mi lugar en el mundo digital.<br>🍂 Ganas de expandirme a otras ramas.<br>🎻 Adoro el arte en todas sus formas., y el código es una de ellas.<br>🐙 Si lo puedo imaginar, lo puedo programar...</p>
+<p align="left">🍁 Looking for my place in this digital world.<br>🍂 Wishing to expand my stack.<br>🎻 Love art in all its forms, and coding is one of them.<br>🐙 If i can imagine it, i can create it...</p>
 
 ###
 
-<h2 align="left">Mis tecnologías:</h2>
+<h2 align="left">Skills:</h2>
 
 ###
 
