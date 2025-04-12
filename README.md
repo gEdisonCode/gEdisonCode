@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">🍁 Looking for my place in this digital world.<br>🍂 Wishing to expand my stack.<br>🎻 Love art in all its forms, and coding is one of them.<br>🐙 If i can imagine it, i can create it...</p>
+<p align="left">🍁 Looking for my place in this digital world.<br>🍂 Wishing to expand my stack.<br>🎻 Love art in all its forms, and coding is one of them.<br>🐙 If i can imagine it, I can create it...</p>
 
 ###
 
