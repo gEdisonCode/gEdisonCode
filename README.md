@@ -2,8 +2,9 @@
 
 ###
 
-<p align="left">My name is German Edison. Front-End Web Developer. ☕<br>Currently dedicated to the creation of dynamic and responsive solutions, using everything I know, and all that I have yet to learn. 
-.</p>
+<p align="left">My name is German Edison☕. <br>Detail-oriented Front-End Web Developer with a strong ability to deliver responsive, user-centric
+interfaces through clean and efficient code. Currently on the creative side of things...
+</p>
 
 ###
 
