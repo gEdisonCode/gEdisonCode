@@ -14,7 +14,7 @@ Currently on the creative side of things...
 
 ###
 
-<p align="left">🍁 If you can't hear the fan, you aren't doing it properly<br>🍂 Senior farmer wannabe<br>🎻 Love art in all its forms, and coding is one of them.<br>🐙 If i can imagine it, I can break it...</p>
+<p align="left">🍁 If you can't hear the fan, you aren't doing it properly.<br>🍂 Senior farmer wannabe.<br>🎻 Love art in all its forms, and coding is one of them.<br>🐙 If i can imagine it, I can break it...</p>
 
 ###
 
