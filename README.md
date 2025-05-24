@@ -14,7 +14,7 @@ Currently on the creative side of things...
 
 ###
 
-<p align="left">🍁 Looking for my place in this digital world.<br>🍂 Being a farmer is not that bad...<br>🎻 Love art in all its forms, and coding is one of them.<br>🐙 If i can imagine it, I can break it...</p>
+<p align="left">🍁 Looking for a long term position.<br>🍂 Being a farmer is not that bad...<br>🎻 Love art in all its forms, and coding is one of them.<br>🐙 If i can imagine it, I can break it...</p>
 
 ###
 
